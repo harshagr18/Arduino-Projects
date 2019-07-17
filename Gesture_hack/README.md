@@ -11,6 +11,6 @@ To improve accessibility of public places for differently abled people by elimin
 - Motor of required torque.
 - Push Button for reset
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/sneaky-beaver/Arduino-Projects/blob/master/Gesture_hack/image.jpg)
 
  
